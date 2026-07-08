@@ -1,6 +1,8 @@
 ![GitHub's Green Software Directory](https://github.blog/wp-content/uploads/2024/09/1200x630-GHNonprofits_BlogB.png?w=1600)
 
 ---
+I forked this repo and added my own note!
+
 ## GitHub's Green Software Directory is a simple and easy-to-use resource that all developers can use to adopt green software tools. This list aims to help any developer find green software projects available on GitHub. 
 
 ### What is “Green Software”?
